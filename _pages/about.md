@@ -6,7 +6,7 @@ subtitle: Ph.D. candidate in Statistics, Zhejiang University
 
 profile:
   align: right
-  image: zzn_photo.jpg
+  image: zznphoto.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: <a href="mailto:znzh@zju.edu.cn">znzh@zju.edu.cn</a></p>
