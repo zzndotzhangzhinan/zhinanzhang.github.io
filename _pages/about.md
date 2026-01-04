@@ -21,6 +21,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a final-year Ph.D. student in Statistics at Zhejiang University. Prior to that, I received my B.S. degree in Statistics from [School of Mathematical Sciences](http://www.math.zju.edu.cn/mathen/), [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China in 2021.
+I am a final-year Ph.D. student in Statistics at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China. Prior to that, I received my B.S. degree in Statistics from [School of Mathematical Sciences](http://www.math.zju.edu.cn/mathen/), Zhejiang University in 2021.
 
 My current research interests include large-scale multiple testing, conformal inference, selective inference and empirical Bayes methods.
